@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/iMessage-clone/static/css/main.dbc7344f.chunk.css",
+    "main.js": "/iMessage-clone/static/js/main.48a2360c.chunk.js",
+    "main.js.map": "/iMessage-clone/static/js/main.48a2360c.chunk.js.map",
+    "runtime-main.js": "/iMessage-clone/static/js/runtime-main.afd69f3e.js",
+    "runtime-main.js.map": "/iMessage-clone/static/js/runtime-main.afd69f3e.js.map",
+    "static/js/2.0488a846.chunk.js": "/iMessage-clone/static/js/2.0488a846.chunk.js",
+    "static/js/2.0488a846.chunk.js.map": "/iMessage-clone/static/js/2.0488a846.chunk.js.map",
+    "index.html": "/iMessage-clone/index.html",
+    "static/css/main.dbc7344f.chunk.css.map": "/iMessage-clone/static/css/main.dbc7344f.chunk.css.map",
+    "static/js/2.0488a846.chunk.js.LICENSE.txt": "/iMessage-clone/static/js/2.0488a846.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.afd69f3e.js",
+    "static/js/2.0488a846.chunk.js",
+    "static/css/main.dbc7344f.chunk.css",
+    "static/js/main.48a2360c.chunk.js"
+  ]
+}
