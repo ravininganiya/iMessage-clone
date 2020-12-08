@@ -1,0 +1,22 @@
+.sidebarChat {
+    display: flex;
+    /* flex: 1; */
+    padding: 20px;
+    height: 50px;
+    align-items: center;
+    border-bottom: 1px solid lightgray;
+}
+.sidebarChat:hover {
+    background-color: #3e93fd;
+    color:#fff;
+}
+.sidebarChat_info{
+    position: relative;
+    margin-left: 15px;
+    width: 100%;
+}
+.sidebarChat_info > small{
+    position: absolute;
+    top:5px;
+    right:0;
+}
